@@ -42,7 +42,7 @@
 *.VC.opendb
 
 # Precompiled Assets
-SourceArt/**/*.png
+SourceArt**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
@@ -73,9 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-AtmosphericHouse/*
-Levels/*
-Characters/Mannequins/*
+Content/AtmosphericHouse/*
+Content/Levels/*
+Content/Characters/Mannequins/*
 
 
 
